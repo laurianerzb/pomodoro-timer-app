@@ -22,7 +22,7 @@ The Pomodoro Timer App is a basic implementation of the Pomodoro technique, a ti
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pomodoro-timer-app.git
+   git clone https://github.com/laurianerzb/pomodoro-timer-app.git
 2. Navigate to the project directory:
    ```bash 
    cd pomodoro-timer-app
